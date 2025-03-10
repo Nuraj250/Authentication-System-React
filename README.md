@@ -1,4 +1,4 @@
-# Authentication System                 
+# Authentication System                                   
                                      
 ## Overview
 This project is a simple **Authentication System** built using React. It includes user signup, login, password reset, and private routes for secure navigation. The app uses Firebase for backend authentication.
